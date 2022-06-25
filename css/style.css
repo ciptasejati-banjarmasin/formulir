@@ -72,12 +72,6 @@ form .fields .input-field{
     flex-direction: column;
     margin: 4px 0;
 }
-form .fields .thn{
-    display: flex;
-    width: calc(100%);
-    flex-direction: column;
-    margin: 4px 0;
-}
 .input-field label{
     font-size: 12px;
     font-weight: 500;
